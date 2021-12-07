@@ -1,0 +1,14 @@
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\bin\Debug\netcoreapp3.1\Original.exe
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\bin\Debug\netcoreapp3.1\Original.deps.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\bin\Debug\netcoreapp3.1\Original.runtimeconfig.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\bin\Debug\netcoreapp3.1\Original.runtimeconfig.dev.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\bin\Debug\netcoreapp3.1\Original.dll
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\bin\Debug\netcoreapp3.1\Original.pdb
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\obj\Debug\netcoreapp3.1\Original.csproj.AssemblyReference.cache
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\obj\Debug\netcoreapp3.1\Original.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\obj\Debug\netcoreapp3.1\Original.AssemblyInfoInputs.cache
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\obj\Debug\netcoreapp3.1\Original.AssemblyInfo.cs
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\obj\Debug\netcoreapp3.1\Original.csproj.CoreCompileInputs.cache
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\obj\Debug\netcoreapp3.1\Original.dll
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\obj\Debug\netcoreapp3.1\Original.pdb
+C:\Users\Lleytn\Desktop\Patrones de diseño\Original\obj\Debug\netcoreapp3.1\Original.genruntimeconfig.cache

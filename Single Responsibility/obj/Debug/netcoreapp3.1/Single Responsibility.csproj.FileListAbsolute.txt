@@ -1,0 +1,21 @@
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Single Responsibility.exe
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Single Responsibility.deps.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Single Responsibility.runtimeconfig.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Single Responsibility.runtimeconfig.dev.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Single Responsibility.dll
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Single Responsibility.pdb
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.csproj.AssemblyReference.cache
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.AssemblyInfoInputs.cache
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.AssemblyInfo.cs
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.dll
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.pdb
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.genruntimeconfig.cache
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Original.deps.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Original.runtimeconfig.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Original.runtimeconfig.dev.json
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Original.exe
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Original.dll
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\bin\Debug\netcoreapp3.1\Original.pdb
+C:\Users\Lleytn\Desktop\Patrones de diseño\Single Responsibility\obj\Debug\netcoreapp3.1\Single Responsibility.csproj.CopyComplete
