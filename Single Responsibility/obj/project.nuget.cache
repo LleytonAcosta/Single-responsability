@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFBn217RIeWeNa4HiWy9EV5Algw6wZUSZYYzl7oyP7hrTjPrRh30I1hr3s32kzq1OP7H1ZwJcF3KwABQQJ8tIA==",
+  "dgSpecHash": "O8LUDODG3GJjq0wmkY7L3dCIhTbbg5xV7GrHF3hVLXuU0qmhYmHe8jIoehr1xkwQMwj5wvmnpbgakO+mUgEv/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Single Responsibility\\Single Responsibility.csproj",
+  "projectFilePath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Single Responsibility\\Single Responsibility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

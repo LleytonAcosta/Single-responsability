@@ -13,7 +13,7 @@
             Cantidad = cantidad;
         }
 
-        // Metodo para calcular el subtotal de los productos
+        // se implementa un Metodo para calcular el subtotal de los productos
         public double Subtotal()
         {
             return Cantidad * Producto.Precio;

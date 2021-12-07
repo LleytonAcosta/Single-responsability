@@ -13,7 +13,7 @@ namespace Single_Responsibility
             cliente.Apellido = " Acosta";
             cliente.Nombre = "Lleyton";
 
-            // Datos que se implementa a la factura
+            // Datos que se implementa a la factura con un producto con precio y una cantidad
             Factura factura = new Factura(1314978, cliente);
 
             Item item_1 = new Item(new Producto("Pan",5), 5);

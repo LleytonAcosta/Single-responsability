@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Original\\Original.csproj": {}
+    "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Original\\Original.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Original\\Original.csproj": {
+    "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Original\\Original.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Original\\Original.csproj",
+        "projectUniqueName": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Original\\Original.csproj",
         "projectName": "Original",
-        "projectPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Original\\Original.csproj",
+        "projectPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Original\\Original.csproj",
         "packagesPath": "C:\\Users\\Lleytn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Original\\obj\\",
+        "outputPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Original\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lleytn\\AppData\\Roaming\\NuGet\\NuGet.Config",

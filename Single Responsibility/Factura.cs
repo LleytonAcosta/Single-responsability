@@ -14,9 +14,10 @@ namespace Single_Responsibility
 
         public List<Item> Items { get; set; }
 
+        // Se simplifica los datos del cliente es decir el nombre y apellido
         public Cliente Cliente { get; set; }
 
-        // Constructor
+        // Constructor ya no se necesita un nombre y apellido si no que ahora ya se tiene la responsabilidad de conocer los datos del cliente
         public Factura(int cedula, Cliente cliente)
         {
             Cedula = cedula;
@@ -25,7 +26,7 @@ namespace Single_Responsibility
             Fecha = DateTime.Today;
         }
 
-        // Calculo del total de los productos
+        //  Pedirle a cada item su subtotal
 
         public double Total()
         {

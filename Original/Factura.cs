@@ -29,7 +29,7 @@ namespace Single_Responsibility
             Items = new List<Item>();
         }
 
-        // Calculo del total de los productos
+        // Metodo para calcular el total de la cantidad por el precio del producto o items
         public double Total()
         {
             double total = 0;

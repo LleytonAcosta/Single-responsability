@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Single Responsibility\\Single Responsibility.csproj",
+      "projectUniqueName": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Single Responsibility\\Single Responsibility.csproj",
       "projectName": "Single Responsibility",
-      "projectPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Single Responsibility\\Single Responsibility.csproj",
+      "projectPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Single Responsibility\\Single Responsibility.csproj",
       "packagesPath": "C:\\Users\\Lleytn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Single Responsibility\\obj\\",
+      "outputPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Single Responsibility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lleytn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Original\\Original.csproj": {
-              "projectPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño - copia\\Original\\Original.csproj"
+            "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Original\\Original.csproj": {
+              "projectPath": "C:\\Users\\Lleytn\\Desktop\\Patrones de diseño\\Original\\Original.csproj"
             }
           }
         }
