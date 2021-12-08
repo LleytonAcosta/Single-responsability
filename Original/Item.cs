@@ -12,7 +12,7 @@ namespace Single_Responsibility
 
         public int Cantidad { get; set; }
         
-        //constructor
+        //Metodo Item 
         public Item(Producto producto, int cantidad)
         {
             Producto = producto;
