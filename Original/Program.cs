@@ -27,7 +27,7 @@ namespace Single_Responsibility
             Console.WriteLine( "Fecha:" + factura.Fecha);
             Console.WriteLine("Cedula:" + factura.Cedula);
             Console.WriteLine( "Cliente:" + factura.Nombre + factura.Apellido);
-            Console.WriteLine( "Toltal de la comra: $" + factura.Total());
+            Console.WriteLine( "Toltal de la compra: $" + factura.Total());
         }
     }
 }
